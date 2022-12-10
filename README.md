@@ -1,8 +1,4 @@
 ![Web Developer](https://media-exp1.licdn.com/dms/image/C4D16AQF65IdsHrJYhg/profile-displaybackgroundimage-shrink_350_1400/0/1655296523667?e=1675900800&v=beta&t=3nhkiaB9lv1MpQYKQNUFKOoCLVhwIXXJg24P9FQrZow)
-### Hi there 👋, my name is Dipta saha
-#### Web Developer
-
-
 <h1 align="center">Hi 👋, I'm Dipta saha</h1>
 <h3 align="center">A passionate Web Developer in Bangladesh</h3>
 
