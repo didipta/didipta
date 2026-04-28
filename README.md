@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipta Saha</h1>
-<h3 align="center">Frontend Developer | Next.js | React | TypeScript</h3>
+<h3 align="center">Frontend Engineer • Next.js • React • TypeScript • Flutter</h3>
 
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4E16AQHfnif6l6jELg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1735928031592?e=2147483647&v=beta&t=0RDpvaN-jQvH6HT7FFom3qhYdOtXhzs543GPCgLnF_8" alt="banner" width="100%" />
@@ -8,62 +8,80 @@
 ---
 
 ## 🚀 About Me  
-- 💻 I build modern, responsive, and scalable web applications  
-- 🌱 Currently learning **Flutter**, **Node.js**, and **ASP.NET**  
-- 🎯 Focused on clean UI, performance, and SEO  
-- 📌 Interested in full-stack development and clean architecture  
+
+I build **scalable web & mobile applications** with a strong focus on performance, usability, and clean architecture.
+
+- 💻 Frontend specialist with modern JavaScript ecosystem  
+- 📱 Exploring cross-platform apps with **Flutter**  
+- ⚡ Performance, SEO, and accessibility focused  
+- 🧠 Interested in **Full-Stack Development & System Design**  
+- 🛠 Writing clean, maintainable, and production-ready code  
 
 ---
 
 ## 🌐 Connect With Me  
+
 <p align="left">
   <a href="https://www.linkedin.com/in/dipta-saha-11a4b8194/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100008229855643" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=facebook" height="30" />
   </a>
 </p>
 
 ---
 
 ## 🛠 Tech Stack  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,firebase,flutter,nodejs,dotnet,git" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophy  
+## 📱 What I'm Building  
+
+- ⚡ High-performance web apps using **Next.js (App Router)**  
+- 📦 Scalable frontend architectures (feature-based + clean architecture)  
+- 📷 Flutter apps with camera, ML, and real-time processing  
+- 🔗 API-driven applications with secure authentication  
+
+---
+
+## 📊 GitHub Analytics  
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=didipta&theme=onedark&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=didipta&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=didipta&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 🔥 Contribution Streak  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=didipta&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=didipta&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=didipta&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak  
+## 🏆 Achievements  
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=didipta&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=didipta&theme=tokyonight&row=1&column=6&margin-w=10" />
 </p>
 
 ---
 
-## ✨ Profile Views  
+## 👀 Profile Views  
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=didipta&label=Profile%20Views&color=blue&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=didipta&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
+---
+
+## ✨ Philosophy  
+
+> Build fast. Design clean. Scale smart.
