@@ -1,80 +1,178 @@
-<div align="center">
+# Hi, I'm Dipta Saha 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16355f,100:1d4e9e&height=170&section=header&text=Dipta%20Saha&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Web%20%26%20Mobile%20%C2%B7%20Applied%20AI&descSize=17&descAlignY=60" alt="Dipta Saha banner" width="100%">
+### Software Engineer | Full-Stack Developer | Applied AI Engineer
 
-**React · Next.js · Node.js · Flutter · Python & AI Applications**
+📍 Dhaka, Bangladesh · Open to Remote Opportunities
 
-Dhaka, Bangladesh &nbsp;|&nbsp; Open to remote opportunities with international teams
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-16355f?style=for-the-badge&logo=vercel&logoColor=white)](https://dipta-saha.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipta-saha-11a4b8194/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sdipta707@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/didipta)
 
-<a href="https://dipta-saha.vercel.app"><img src="https://img.shields.io/badge/Portfolio-16355f?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/dipta-saha-11a4b8194/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:sdipta707@gmail.com"><img src="https://img.shields.io/badge/Email-1d4e9e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+---
 
-</div>
+## 👨‍💻 About Me
 
-<br>
+I'm a Software Engineer with **3.5+ years of professional experience** building scalable web and mobile applications, backend systems, and AI-powered solutions.
 
-## About
+I specialize in the modern JavaScript ecosystem, particularly React, Next.js, and TypeScript. I also work with Node.js, NestJS, Flutter, Python, and AI technologies to build practical, production-ready applications.
 
-I build fast, scalable web and mobile products and turn requirements into clean, maintainable software. I work mostly with **React, Next.js and TypeScript**, backed by **Node.js and NestJS** APIs, and I also ship **Flutter** apps and **applied AI** features in Python.
+- 🚀 Building scalable applications with React, Next.js, and TypeScript.
+- 📱 Developing cross-platform mobile applications with Flutter.
+- ⚙️ Designing backend services and RESTful APIs.
+- 🤖 Exploring AI Engineering, LLMs, RAG, and Multi-Agent Systems.
+- 🏗️ Interested in system design, clean architecture, and software scalability.
+- 🌱 Continuously learning and building real-world AI solutions.
 
-<table>
-<tr>
-<td align="center" width="25%"><b>3.5+</b><br>years of professional experience</td>
-<td align="center" width="25%"><b>17</b><br>projects delivered to production</td>
-<td align="center" width="25%"><b>2</b><br>app stores (Google Play and App Store)</td>
-<td align="center" width="25%"><b>17,500+</b><br>medicines matched in MedBangla AI</td>
-</tr>
-</table>
+---
 
-## Experience
+## 💼 Professional Experience
 
-| Role | Company | Period |
-|---|---|---|
-| Software Engineer | **Softograph Ltd**, enterprise web, Flutter apps and applied AI (including a Samsung field-sales platform) | Jan 2025 – Present |
-| Software Engineer | **Microdeft**, SEO-optimised e-commerce, ERP, dashboards and an event platform with Next.js | Jan 2023 – Sep 2024 |
+**Software Engineer — Softograph Ltd**
+`Jan 2025 – Present`
 
-## Tech Stack
+- Developing enterprise-grade web and Flutter applications.
+- Implementing scalable application architecture and API integrations.
+- Working on enterprise field-force management solutions, including GPS tracking, geofencing, and camera-verified attendance.
+- Exploring AI-powered features and intelligent application workflows.
 
-| Area | Tools |
-|---|---|
-| **Frontend** | React, Next.js (App Router, SSR), TypeScript, JavaScript (ES6+), Redux Toolkit, Tailwind CSS |
-| **Backend** | Node.js, NestJS, REST APIs, JWT, PostgreSQL, MongoDB, Firebase |
-| **Mobile** | Flutter, Dart, BLoC, Clean Architecture |
-| **AI & Data** | Python, FastAPI, LangChain, Gemini / OpenAI APIs, RAG, YOLO, OpenCV |
-| **Tooling** | Git, GitHub, CI/CD, Docker, Vercel, Postman |
+**Software Engineer — Microdeft**
+`Jan 2023 – Sep 2024`
 
-<div align="center">
+- Developed SEO-optimized e-commerce applications.
+- Built custom ERP systems and business dashboards.
+- Developed scalable REST APIs and backend services.
+- Worked on event management platforms and modern frontend architectures.
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,nodejs,nestjs,flutter,dart,python,postgres,mongodb,firebase,docker,git&perline=8" alt="Tech stack icons">
+---
 
-</div>
+## 🛠️ Tech Stack & Tools
 
-## Featured Work
+### Frontend Development
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**Shopping Corner**](https://shoppingcorner.com.bd/) | Live retail e-commerce site with server-side rendering for SEO and performance, catalogs and order tracking | NestJS, Redux, Tailwind CSS |
-| [**MedBangla AI**](https://github.com/didipta/medbangla-ai) · [Live demo](https://medbangla-ai-liart.vercel.app) | Digitises Bengali and English prescriptions, matches medicines and flags drug-interaction risks | Next.js, FastAPI, PostgreSQL, Flutter |
-| [**Oiikko**](https://play.google.com/store/apps/details?id=com.forenizence.o1kko) · [App Store](https://apps.apple.com/ae/app/oiikko/id6745569471) | Community app with real-time messaging and push notifications, live on both stores | Flutter, Firebase, BLoC |
-| [**Taka Note Detection**](https://github.com/didipta/Bangladeshi-Taka-Note-Detection) | Banknote recognition API with sub-40ms inference | YOLOv11, FastAPI, Docker |
-| [**Leo Multi-Agent Tutor**](https://github.com/didipta/Leo-Multi-Agent) | Four-agent study tutor that re-teaches based on learner weaknesses | CrewAI, AutoGen, Gemini |
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux" />
+</p>
 
-## GitHub Stats
+### Backend Development
 
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,fastapi,dotnet" />
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=didipta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=didipta&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+### Mobile Development
 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+</p>
 
-<br>
+### AI & Machine Learning
 
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=python,opencv,pytorch,tensorflow" />
+</p>
 
-*Build fast. Design clean. Scale smart.*
+**AI Technologies:** LangChain · RAG · LLM Integration · Gemini API · OpenAI API · YOLO · Multi-Agent Systems
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16355f,100:1d4e9e&height=80&section=footer" alt="" width="100%">
+### Database & DevOps
 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,docker,git,github,postman,vercel" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🩺 MedBangla AI
+**AI-Powered Bangla Prescription Intelligence Platform**
+
+An AI-powered healthcare technology project designed to understand handwritten prescriptions, identify medicines, interpret dosage instructions, and provide medication safety information.
+
+- Prescription OCR using TrOCR and OCR pipelines.
+- Medicine matching with a database of 17,500+ medicine records.
+- Drug interaction screening and RAG-based information retrieval.
+
+**Tech:** Next.js · FastAPI · Python · PostgreSQL · OCR · LLM · RAG
+
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github)](https://github.com/didipta/medbangla-ai)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-16355f?style=flat&logo=vercel)](https://medbangla-ai-liart.vercel.app/)
+
+### 🛒 Shopping Corner
+**E-commerce Platform**
+
+A production e-commerce platform with product catalogs, order management, and SEO-focused rendering.
+
+**Tech:** NestJS · Redux · Tailwind CSS
+
+[![Website](https://img.shields.io/badge/Visit_Website-16355f?style=flat&logo=googlechrome)](https://shoppingcorner.com.bd/)
+
+### 📱 Oiikko
+**Community & Social Mobile Application**
+
+A cross-platform community application featuring real-time messaging, Firebase integration, and push notifications.
+
+**Tech:** Flutter · Dart · Firebase · BLoC
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.forenizence.o1kko)
+[![App Store](https://img.shields.io/badge/App_Store-000000?style=flat&logo=appstore&logoColor=white)](https://apps.apple.com/ae/app/oiikko/id6745569471)
+
+### 💵 Bangladeshi Taka Note Detection
+**AI-Based Currency Recognition**
+
+A computer vision application that detects and recognizes Bangladeshi banknotes using a YOLO-based model.
+
+**Tech:** Python · YOLOv11 · FastAPI · OpenCV · Docker
+
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github)](https://github.com/didipta/Bangladeshi-Taka-Note-Detection)
+
+### 🤖 Leo Multi-Agent Tutor
+**AI-Powered Personalized Learning Assistant**
+
+A multi-agent learning assistant designed to identify learner weaknesses and provide personalized explanations.
+
+**Tech:** Python · CrewAI · AutoGen · Gemini
+
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github)](https://github.com/didipta/Leo-Multi-Agent)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=didipta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=didipta&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=didipta&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=didipta&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on innovative software products, AI-powered applications, and challenging engineering projects.
+
+<p align="center">
+  <a href="https://dipta-saha.vercel.app">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/dipta-saha-11a4b8194/">LinkedIn</a> ·
+  <a href="mailto:sdipta707@gmail.com">Email</a> ·
+  <a href="https://github.com/didipta">GitHub</a>
+</p>
+
+<p align="center">
+  <i>"Build fast. Design clean. Scale smart."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=didipta&label=Profile%20Views&color=16355f&style=flat" alt="Profile Views" />
+</p>
