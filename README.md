@@ -165,15 +165,26 @@ A multi-agent learning assistant designed to identify learner weaknesses and pro
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=didipta&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
+
 ---
 
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=didipta&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub Trophies" />
+  <a href="https://github.com/didipta">
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+  <a href="https://github.com/didipta?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View_Projects-16355f?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  </a>-
+</p>
+
+<p align="center">
+  <i>Building, learning, and contributing through code.</i>
 </p>
 
 ---
+
 
 ## 📈 Contribution Activity
 
