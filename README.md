@@ -38,7 +38,7 @@ I specialize in the modern JavaScript ecosystem, particularly React, Next.js, an
 - 🏗️ Interested in system design, clean architecture, and software scalability.
 - 🌱 Continuously learning and building real-world AI solutions.
 
-**Professional Experience:** <!-- EXPERIENCE_YEARS -->
+**Professional Experience:** Nearly 4 years of professional experience <!-- EXPERIENCE_YEARS -->
 
 ---
 
